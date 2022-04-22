@@ -77,3 +77,7 @@ D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\Repos\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\Repos\Vidly\Vidly\bin\EntityFramework.dll
+D:\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Repos\Vidly\Vidly\bin\EntityFramework.xml
+D:\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
