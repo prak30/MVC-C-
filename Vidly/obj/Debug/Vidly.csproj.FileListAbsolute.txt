@@ -81,3 +81,5 @@ D:\Repos\Vidly\Vidly\bin\EntityFramework.dll
 D:\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
 D:\Repos\Vidly\Vidly\bin\EntityFramework.xml
 D:\Repos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialOne.resources
+D:\Repos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
